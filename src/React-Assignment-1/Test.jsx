@@ -33,7 +33,7 @@ class Compo extends React.Component
 
             <button className="btn class"  onClick={Handleclass}>To See Styling in Class Component .</button>
             <br /> <br />
-            <hr /><hr />
+            
         
 
            { x && <Functional />}
