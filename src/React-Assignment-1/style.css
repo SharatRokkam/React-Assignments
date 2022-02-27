@@ -1,30 +1,30 @@
 body
 {
   
-  background-image: linear-gradient(to right, rgba(255, 0, 0, 0.657),rgb(23, 6, 87));
+  background-color: #FFB2A6;
 }
 .heading
 {
-  font-family: 'Courier New', Courier, monospace;
-  font-weight:900;
+  font-family: 'Roboto-Serif', Courier, monospace;
+  font-weight:1000;
   text-align: center;
-  text-shadow: 5px 4px 4px rgb(12, 12, 12);
-  color:rgb(148, 177, 18);
+  text-shadow: 2px 2px 2px rgb(233, 94, 14);
+  color:rgb(17, 17, 17);
 
 }
 .btn
 {
   border: 2px groove goldenrod;
-  background-color: aquamarine;
+  background-color: rgb(166, 233, 134);
   width: 300px;
   height: 50px;
   border-radius: 20px;
   margin-right: 50px;
   text-transform: capitalize;
-  font-family:'Arial Narrow Bold', sans-serif;
+  font-family:'Arial', sans-serif;
   font-weight: bolder;
   box-shadow: 4px 4px 5px yellowgreen;
-  text-shadow: 3px 3px 3px gray;
+  text-shadow: 2px 2px 2px gray;
   margin-top: 30px;
 
 }
@@ -37,16 +37,16 @@ body
 {
   margin-top: 100px;
   display:inline-block;
-  border: 4px groove red;
-  box-shadow: 6px 6px 5px rgb(133, 52, 52);
-  border-radius: 25px;
+  border: 4px groove rgb(218, 74, 74);
+  box-shadow: 5px 5px 5px rgb(133, 52, 52);
+  border-radius: 22px;
   padding: 5px;
   text-align: center;
-  background-color: rgb(187, 76, 76);
-  color: aqua;
+  background-color: rgb(92, 161, 60);
+  color: rgb(8, 8, 8);
   width: 500px;
   margin-left: 30px;
-  text-shadow: 4px 4px 4px black;
+  text-shadow: 2px 2px 2px black;
 
 }
 .sec
